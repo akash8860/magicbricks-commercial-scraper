@@ -21,3 +21,11 @@ A Python script to scrape commercial property listings from MagicBricks across 2
    ```bash
    git clone https://github.com/YOUR_USERNAME/magicbricks-commercial-property-scraper.git
    cd magicbricks-commercial-property-scraper
+
+## Install dependencies:
+pip install -r requirements.txt
+
+## Run This Scraper
+python scraper/magicbricks_scraper.py
+
+
