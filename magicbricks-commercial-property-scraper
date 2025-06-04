@@ -1,0 +1,9 @@
+magicbricks-commercial-property-scraper/
+│
+├── scraper/
+│   └── magicbricks_scraper.py   ← (your full code goes here)
+│
+├── data/                        ← Leave empty, for Excel files
+├── .gitignore
+├── README.md
+├── requirements.txt
